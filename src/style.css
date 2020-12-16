@@ -1,0 +1,42 @@
+
+#app {
+    
+    font-family: 'Avenir', Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    color: #2c3e50;
+  
+  }
+
+  .v-toolbar__content{
+    background-color:#F8F8F8;
+  }
+
+  .logo{
+    margin-top: 10px;
+    margin-left: 20px;
+    width: auto;
+  }
+  .mdi-heart::before{
+    color: #7deed9;
+  }
+  .mdi-magnify::before{
+    color:#777777;
+  }
+  .mdi-dots-vertical::before{
+    color:orange;
+  }
+  .v-item-group {
+    margin-left: 20%;
+    width: 50%;
+  }
+
+  .container-card{
+    background-color: #7deed9 !important;
+    width: 60%;
+    height: 600px;
+    margin-left: 22%;
+  }
+  
+  
+  
