@@ -1,7 +1,7 @@
 
 <template>
     <v-card class="container-card">
-      <v-card-title class="text-center">Datos usuarios</v-card-title>
+      <v-card-title class="text">Datos de los Usuarios</v-card-title>
         <v-expansion-panels
           v-model="panel"
             :disabled="disabled"
